@@ -1,0 +1,2 @@
+# notes
+EvilFunction Notes
