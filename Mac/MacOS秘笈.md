@@ -1,5 +1,3 @@
-
-
 # MacOS
 
 ### 1.修复‘xxx.app已损坏无法打开，你应该将它移到废纸篓’
@@ -63,3 +61,6 @@
 恢复显示
 
 `defaults write com.apple.finder CreateDesktop -bool true;killall Finder`
+
+
+
